@@ -1,0 +1,22 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+body {
+  margin: 0;
+  background: #303030;
+  color: white;
+}
+
+.btn {
+  padding: 4px;
+  border-radius: 6px;
+  color: white;
+}
+.red {
+  background-color: red;
+}
+
+.blue {
+  background-color: blue;
+}
